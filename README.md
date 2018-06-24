@@ -9,7 +9,8 @@ GitPutch練習用というのも兼ねています。
 [](
     ![alt](assets/image_name.png)
 )
+
 |Date|Title|Slide URL|
 |-|-|-|
-|-|-|https://gitpitch.com/yutonihei/Slide/master |
+|-|-|https://gitpitch.com/yutonihei/Slide/master|
 |-|-|-|
