@@ -6,11 +6,11 @@
 GitPutch練習用というのも兼ねています。
 
 資料は各ブランチに配置しています。
-[](
+[](
     ![alt](assets/image_name.png)
 )
 
 |Date|Title|Slide URL|
 |-|-|-|
-|-|-|https://gitpitch.com/yutonihei/Slide/master |
+|-|-|https://gitpitch.com/yutonihei/Slide/master |
 |-|-|-|
