@@ -12,5 +12,5 @@ GitPutch練習用というのも兼ねています。
 
 |Date|Title|Slide URL|
 |-|-|-|
-|-|-|https://gitpitch.com/yutonihei/Slide/master|
+|-|-|https://gitpitch.com/yutonihei/Slide/master |
 |-|-|-|
