@@ -11,7 +11,7 @@
 
 | Reintroduce ||
 |:--|:---:|
-| ![Twitter Icon]( attached/XUZfXn27_400x400.jpg )|仁瓶悠斗 <br> Twitter:@YutoNihei <br> GitHub:yutonihei <br> Blog : <br> http://yutonihei.hatenablog.com |
+| ![Twitter Icon]( assets/XUZfXn27_400x400.jpg )|仁瓶悠斗 <br> Twitter:@YutoNihei <br> GitHub:yutonihei <br> Blog : <br> http://yutonihei.hatenablog.com |
 +++
 
 ### ちなみに
