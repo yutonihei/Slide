@@ -10,7 +10,7 @@
 
 | Reintroduce ||
 |:--|:---:|
-| ![Twitter Icon](https://github.com/yutonihei/Slide/blob/20180701_kizokukai/attached/XUZfXn27_400x400.jpg)|仁瓶悠斗 <br> Twitter:@YutoNihei <br> GitHub:yutonihei <br> HP: toshlabs.net (ルートページ何もしてない...) <br> Blog : http://yutonihei.hatenablog.com |
+| ![Twitter Icon]( https://github.com/yutonihei/Slide/20180701_kizokukai/attached/XUZfXn27_400x400.jpg )|仁瓶悠斗 <br> Twitter:@YutoNihei <br> GitHub:yutonihei <br> HP: toshlabs.net (ルートページ何もしてない...) <br> Blog : http://yutonihei.hatenablog.com |
 +++
 
 ### ちなみに
