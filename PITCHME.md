@@ -13,6 +13,6 @@
 仁瓶悠斗 <br>
 Twitter:@YutoNihei <br>
 GitHub:yutonihei <br>
-HP:toshlab.net (ルートページ何もしてない...)
+HP:toshlab.net (ルートページ何もしてない...) |
 ---
 
