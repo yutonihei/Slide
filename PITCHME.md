@@ -129,4 +129,4 @@ Start Small , Fail Fast
 
 ---
 
-```とりあえずGitPitchでスライド作るにあたってGitを覚えた```
+``` とりあえずGitPitchでスライド作るにあたってGitを覚えた ```
