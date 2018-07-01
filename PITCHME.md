@@ -126,3 +126,7 @@
 ---
 
 Start Small , Fail Fast
+
+---
+
+```とりあえずGitPitchでスライド作るにあたってGitを覚えた```
