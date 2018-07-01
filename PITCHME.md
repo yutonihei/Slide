@@ -10,6 +10,7 @@
 | Twitter:@YutoNihei|
 | GitHub:yutonihei|
 | Blog: http://yutonihei.hatenablog.com |
+||
 
 +++
 
@@ -95,7 +96,7 @@
 
 ---
 
-→大体ここで知った
+→大体勉強会で知った
 
 ---
 
@@ -111,6 +112,10 @@
 
 なんか講師できるといいなぁ
 #### 意外とGitとか触れてない人も多い？
+
+---
+
+突拍子も無くElectron
 
 ---
 
