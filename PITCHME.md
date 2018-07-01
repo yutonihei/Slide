@@ -1,5 +1,5 @@
 # 貴族会@Connpass #1
-## Re:Introduceと都心に出て来て変わった事、変わりたい願望
+## Re:Introduceと都心に来て変わった事、願望
 
 ---
 
